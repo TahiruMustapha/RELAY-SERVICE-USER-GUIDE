@@ -1,6 +1,6 @@
 {
   "name": "Claude Relay Service",
-  "favicon": "https://mintlify.com/favicon.ico",
+  "favicon": "/favicon.svg",
   "colors": {
     "primary": "#3b82f6",
     "light": "#60a5fa",
