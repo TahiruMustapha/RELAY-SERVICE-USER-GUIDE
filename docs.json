@@ -1,0 +1,54 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Claude Relay Service",
+  "theme": "mint",
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#3b82f6",
+    "light": "#60a5fa",
+    "dark": "#1d4ed8"
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Claude Relay Service",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "docs/user-guide",
+              "docs/installation"
+            ]
+          },
+          {
+            "group": "Guides",
+            "pages": [
+              "docs/best-practices",
+              "docs/claude-md"
+            ]
+          },
+          {
+            "group": "Configuration",
+            "pages": [
+              "docs/custom-models"
+            ]
+          },
+          {
+            "group": "Support",
+            "pages": [
+              "docs/faq"
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": []
+    }
+  },
+  "footer": {
+    "socials": {
+      "telegram": "https://t.me/claude_relay_service"
+    }
+  }
+}
